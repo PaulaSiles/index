@@ -1,0 +1,215 @@
+.titulo-pagina {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 4px;
+    color: #F1BBF2;
+}
+
+.inicio {
+    margin-top: 2%;
+    margin-bottom: 4%;
+
+}
+
+.inicio-conocenos {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+
+}
+
+.titulo-nuestra-historia {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.nuestra-historia-contenido {
+    text-align: justify;
+}
+
+.la-despensa {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.mision {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+.vision {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+.valores {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+.titulo-nosotros {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.titulo-hortalizas {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.titulo-huevos {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.titulo-jabones {
+    font-size: 1.7em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.descuento {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 8%;
+}
+
+.Formulario {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
+.preguntas {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.condiciones {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-bottom: 1px solid;
+    border-bottom-width: 1px;
+}
+
+.huerto {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.gallinas {
+    font-size: 1.7em;
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+}
+
+.condicones-contenido {
+    color: #7f7c80;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 4%;
+
+}
+
+.formulario {
+    color: #7f7c80;
+    margin-bottom: 8%;
+}
+
+.informacion li {
+    list-style-type: none;
+}
+
+.tyc {
+    color: #7f7c80;
+    text-decoration: none;
+}
+
+.faq {
+    color: #7f7c80;
+    text-decoration: none;
+}
+
+.seguir li {
+    font-size: 2em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.col-lg-3 {
+    text-align: center;
+}
+
+.contacto {
+    list-style-type: none;
+}
+
+.seguir {
+    list-style-type: none;
+}
